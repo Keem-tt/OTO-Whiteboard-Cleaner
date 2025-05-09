@@ -21,7 +21,7 @@ OTO is a low-cost, Arduino-powered whiteboard cleaner designed for classrooms, l
 This project challenged me across disciplines—from mechanical design and 3D printing to embedded programming and cost analysis. I iterated multiple times to resolve gear alignment, weight imbalance, and integration challenges.
 
 ## 📸 Preview
-![OTO Render]
+![OTO Render] (Turntable Video.mp4)
 
 ## 🔗 Connect
 Want to chat about the project or hire me?
