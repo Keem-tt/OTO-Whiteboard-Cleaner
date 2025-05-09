@@ -10,12 +10,12 @@ OTO is a low-cost, Arduino-powered whiteboard cleaner designed for classrooms, l
 - Safety-integrated with limit switches on both ends
 
 ## 📂 Project Contents
-- `Final_Report.pdf` – Full technical report with documentation and analysis
-- `Code/` – Arduino files for button-activated cleaning cycles
-- `CAD/` – 3D printable parts, Fusion 360 exports (STL, STEP)
-- `Images/` – Prototype, wiring, and exploded view images
-- `BOM.xlsx` – Detailed bill of materials and component costs
-- `Wiring_Diagram.png` – Electrical schematic (Tinkercad/Fritzing)
+| Folder | Contents |
+|--------|----------|
+| `CAD/` | All 3D-printed STL files used in the prototype |
+| `Code/` | Arduino `.ino` file for motor control logic |
+| `Report/` | Capstone report (PDF)|
+| `Media/` | Turntable video|
 
 ## 🧠 What I Learned
 This project challenged me across disciplines—from mechanical design and 3D printing to embedded programming and cost analysis. I iterated multiple times to resolve gear alignment, weight imbalance, and integration challenges.
